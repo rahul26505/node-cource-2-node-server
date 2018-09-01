@@ -8,6 +8,7 @@
 /.vs
 # dependencies
 /node_modules
+Server.log
 
 # IDEs and editors
 /.idea
